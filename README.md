@@ -14,6 +14,10 @@ Flutter · Python · Supabase · Яндекс.Карты · [app.adr-academy.ru]
 
 Исходники закрыты — это продукт школы. В репозитории описание и скриншоты.
 
+<p>
+  <img src="screenshots/neuroinstructor.jpg" alt="Нейроинструктор — тренировка" width="280">
+</p>
+
 ### [Экзамены](https://github.com/Sibarit87/exam)
 
 Android для инструктора: курсанты, запись на экзамены по средам, паузы между попытками, списки на день. Без бэкенда, данные на телефоне.
@@ -25,6 +29,10 @@ React · TypeScript · Capacitor
 Свой десктопный чат с GPT под Windows: файлы, поиск, картинки, публикация в Telegram. Portable exe, ключ у себя.
 
 Electron · OpenAI API
+
+<p>
+  <img src="screenshots/chat.png" alt="GPT Chat" width="720">
+</p>
 
 ---
 
