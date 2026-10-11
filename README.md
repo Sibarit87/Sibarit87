@@ -24,6 +24,11 @@ Android для инструктора: курсанты, запись на эк�
 
 React · TypeScript · Capacitor
 
+<p>
+  <img src="screenshots/exam2.jpg" alt="Курсанты" width="220">
+  <img src="screenshots/exam1.jpg" alt="Списки на экзамен" width="220">
+</p>
+
 ### [GPT Chat](https://github.com/Sibarit87/gpt_chat)
 
 Свой десктопный чат с GPT под Windows: файлы, поиск, картинки, публикация в Telegram. Portable exe, ключ у себя.
