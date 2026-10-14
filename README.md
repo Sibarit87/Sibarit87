@@ -10,7 +10,7 @@
 
 Живой тренажёр ПДД: панорама улицы + чат с ИИ-инструктором, экзамен, маршрут, памятка.
 
-Flutter · Python · Supabase · Яндекс.Карты · [app.adr-academy.ru](https://app.adr-academy.ru)
+Flutter · Python · PostgreSQL на VPS · Яндекс.Карты · [app.adr-academy.ru](https://app.adr-academy.ru)
 
 Исходники закрыты — это продукт школы. В репозитории описание и скриншоты.
 
